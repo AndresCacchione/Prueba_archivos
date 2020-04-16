@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587054764 source:c:\users\andres\documents\github\prueba_archivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<rlutil.h>
+	"funciones.h"
+
+1587060422 c:\users\andres\documents\github\prueba_archivos\funciones.h
+	<rlutil.h>
+
